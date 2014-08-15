@@ -9,6 +9,7 @@ apps/*
 # ignore build and dist output
 build/*
 dist/*
+deb_dist/*
 # as well as sphinx output
 doc/build/*
 
