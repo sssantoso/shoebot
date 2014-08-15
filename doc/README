@@ -1,7 +1,7 @@
 Install the sphinx and shoebot sphinx extension before generating the docs.
 
 $ pip install sphinx
-$ pushd ../extensions/sphinx-doc/
+$ pushd extension
 $ python setup.py install
 $ popd
 
